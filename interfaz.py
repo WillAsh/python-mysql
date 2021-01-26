@@ -1,3 +1,4 @@
+#pa saber curifeo de mrd
 import tkinter as tk
 from tkinter import *
 from tkinter import messagebox as ms
