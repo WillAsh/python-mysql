@@ -1,10 +1,11 @@
 import pymysql
 class Ventas:
     def conectar(self):
-        db = pymysql.connect(host='localhost',
-                             user='Curso_BD',
-                             password='minaminaminari',
-                             database='ventas')
+        db = pymysql.connect(host='sql10.freemysqlhosting.net',
+                             user='sql10390533',
+                             password='LtVePTPIPy',
+                             database='sql10390533',
+                             port= 3306)
         return db
     def verificar(self,datos):
         c=self.conectar()
