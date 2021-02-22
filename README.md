@@ -3,6 +3,8 @@ Interfaz Gráfica de manejo de una base de datos MySQL usando Python y tkinter
 22/02/21
 
   -Se descontinuó la base de datos, use una local de preferencia cambiando los parámetros en bd.py
+  
+  -Añadido Script para montar la base de datos local.
 
 
 03/02/2021
